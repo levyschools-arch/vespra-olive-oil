@@ -4,6 +4,8 @@ VESPRA is a fictional olive oil brand created for a Peakvision website concept. 
 
 ![Illustrated moonlit olive grove from the VESPRA concept](assets/img/vespra/A01-grove-wide.webp)
 
+[View the live concept](https://levyschools-arch.github.io/vespra-olive-oil/).
+
 The site uses illustrated scenes, scroll animation and a glass bottle drawn in Three.js. It is a static site built with HTML, CSS and JavaScript. GSAP controls the chapter motion. The bottle is made in code rather than loaded as a 3D model.
 
 ## View locally
